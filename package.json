@@ -1,0 +1,18 @@
+{
+  "name": "locationfinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google.maps": "^3.44.3",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "@types/faker": "^5.5.3",
+    "@types/google-maps": "^3.2.2",
+    "@types/googlemaps": "^3.43.3",
+    "@types/node": "^14.14.41",
+    "faker": "^5.5.3",
+    "google-maps": "^4.3.3"
+  }
+}
